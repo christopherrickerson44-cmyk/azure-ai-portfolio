@@ -1,0 +1,43 @@
+Azure AI Text Analysis
+
+Overview
+
+This project demonstrates my understanding of Azure AI and natural language processing concepts learned while completing the Microsoft Azure AI Fundamentals certification.
+
+What This Project Demonstrates
+
+* Natural language processing (NLP)
+* Text analysis
+* Sentiment analysis
+* Key phrase extraction
+* Named entity recognition
+* Azure AI services concepts
+* Working with AI APIs
+* Understanding AI input and output
+
+Example Scenario
+
+A business receives customer feedback and wants to automatically analyze the responses.
+
+Example input:
+
+“The customer service was excellent, but the delivery took too long.”
+
+An AI language service can analyze the text and identify:
+
+* Sentiment: Mixed/Negative
+* Key phrases: customer service, delivery
+* Important entities: customer service, delivery
+
+Skills Demonstrated
+
+* Microsoft Azure AI
+* AI Fundamentals
+* Natural Language Processing
+* Cloud AI concepts
+* Understanding AI model inputs and outputs
+* Technical documentation
+
+Future Improvements
+
+I plan to expand this project by creating a Python-based implementation using an Azure AI service and documenting the results with screenshots and example outputs.
